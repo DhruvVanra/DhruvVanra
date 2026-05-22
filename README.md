@@ -74,51 +74,22 @@
 <p align="center">
   📘 Introduction to Java &nbsp;•&nbsp; 📗 Inheritance & Data Structures in Java <br/>
   🌐 HTML, CSS & JavaScript &nbsp;•&nbsp; 🤖 Hackathon – AI Project
-</p>
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vanraDhruv&theme=tokyonight&hide_border=true" alt="Repos per language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanraDhruv&theme=tokyonight&hide_border=true" alt="Most commit language"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vanraDhruv&hide_border=true&theme=tokyonight" alt="Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vanraDhruv&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vanraDhruv&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vanraDhruv&hide_border=true&theme=tokyo-night" alt="Contribution Graph"/>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vanraDhruv/vanraDhruv/output/snake-dark.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/vanraDhruv/vanraDhruv/output/snake.svg" />
-  </picture>
+  🏆 TIC Tech Toe '2026 — DA-IICT
 </p>
 
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/dhruv-vanra">
+  <a href="https://www.linkedin.com/in/dhruv-vanra-2a5089369/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:vanradhruv02@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/vanraDhruv">
+  <a href="https://github.com/DhruvVanra">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://your-portfolio-link.com">
+  <a href="https://dhruvvanra.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-ff6b6b?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
