@@ -56,13 +56,6 @@
   🚗 <strong>WebWheels</strong> &nbsp;|&nbsp; 🎵 <strong>Spotify Clone</strong> &nbsp;|&nbsp; 🤖 <strong>AI Doc Classifier</strong> &nbsp;|&nbsp; 🗺️ <strong>GeoSpatial Analyzer</strong>
 </p>
 
-| 🔖 Project | 📝 Description | 🔗 |
-|---|---|---|
-| 🚗 **WebWheels** | Flask-based vehicle marketplace with AI recommendations | [GitHub](#) |
-| 🎵 **Spotify Clone** | Responsive Spotify-inspired UI using HTML & CSS | [GitHub](#) |
-| 🤖 **AI Document Classification** | AI system for document classification & semantic search | [GitHub](#) |
-| 🗺️ **GeoSpatial Site Analyzer** | Geospatial site readiness analyzer using React & Python | [GitHub](#) |
-
 ## 🏆 Achievements
 
 <p align="center">
@@ -73,7 +66,7 @@
 
 <p align="center">
   📘 Introduction to Java &nbsp;•&nbsp; 📗 Inheritance & Data Structures in Java <br/>
-  🌐 HTML, CSS & JavaScript &nbsp;•&nbsp; 🤖 Hackathon – AI Project
+  🌐 HTML, CSS & JavaScript &nbsp;•&nbsp; 🤖 Hackathon – AI Project <br/>
   🏆 TIC Tech Toe '2026 — DA-IICT
 </p>
 
@@ -94,9 +87,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
