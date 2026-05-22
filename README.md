@@ -53,7 +53,7 @@ Full-stack vehicle marketplace with AI-powered recommendations and smart pricing
 Flask, SQLite, JavaScript, Groq API
 
 🔗 GitHub:
-https://github.com/vanraDhurv/WEBWHEELS
+https://github.com/DhruvVanra/WEBWHEELS
 
 ---
 
@@ -61,7 +61,7 @@ https://github.com/vanraDhurv/WEBWHEELS
 Responsive Spotify-inspired music player UI built using pure HTML & CSS.
 
 🔗 GitHub:
-https://github.com/vanraDhurv/Spotify-clone
+https://github.com/DhruvVanra/Spotify-clone
 
 ---
 
@@ -69,7 +69,7 @@ https://github.com/vanraDhurv/Spotify-clone
 AI-powered system for document classification, metadata extraction, and semantic search.
 
 🔗 GitHub:
-https://github.com/vanraDhurv/AI-Document-Classification
+https://github.com/DhruvVanra/AI-Document-Classification
 
 ---
 
@@ -77,7 +77,7 @@ https://github.com/vanraDhurv/AI-Document-Classification
 React + Python based geospatial analysis platform for evaluating business locations.
 
 🔗 GitHub:
-https://github.com/vanraDhurv/GeoSpatial-Site-Readiness-Analyzer
+https://github.com/DhruvVanra/GeoSpatial-Site-Readiness-Analyzer
 
 ---
 
@@ -99,7 +99,7 @@ https://github.com/vanraDhurv/GeoSpatial-Site-Readiness-Analyzer
 https://www.linkedin.com/in/dhruv-vanra-2a5089369/
 
 🐙 GitHub:
-https://github.com/vanraDhurv
+https://github.com/DhruvVanra
 
 ---
 
