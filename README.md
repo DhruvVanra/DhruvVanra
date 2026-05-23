@@ -70,6 +70,21 @@
   🏆 TIC Tech Toe '2026 — DA-IICT
 </p>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahirvedant&show_icons=true&theme=tokyonight" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahirvedant&theme=tokyonight" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahirvedant&layout=compact&theme=tokyonight" alt="langs" />
+</p>
+
+---
 ## 🌐 Connect with Me
 
 <p align="center">
