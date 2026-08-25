@@ -59,7 +59,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  🥇 Hackathon Participant — <strong>TIC Tech Toe 2026 (DA-IICT)</strong> &nbsp;•&nbsp; ✅ Solved <strong>25+ DSA problems</strong> on LeetCode
+  🥇 Hackathon Participant — <strong>TIC Tech Toe 2026 (DA-IICT)</strong> &nbsp;•&nbsp; ✅ Solved <strong>100+ DSA problems</strong> on LeetCode
 </p>
 
 ## 📜 Certifications
